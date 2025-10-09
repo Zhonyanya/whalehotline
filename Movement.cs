@@ -25,6 +25,6 @@ public class Movement : MonoBehaviour
     {
         movementDirection = new Vector2(horizInput, vertInput).normalized;
 
-        rb.AddForce(movementDirection * speed, ForceMode2D.Force);
+        rb.MovePosition(rb.position + movementDirection * speed * Time.fixedDeltaTime);
     }
 }
