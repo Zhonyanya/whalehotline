@@ -8,7 +8,7 @@ public class Cursor : MonoBehaviour
     public Transform cameraPos;
     public Transform playerPos;
 
-    // Update is called once per frame
+    // Update is called once per framе
     void Update()
     {
         mousePosition = Input.mousePosition;
