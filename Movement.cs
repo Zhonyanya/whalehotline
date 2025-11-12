@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//oгоооогатдемн
+//oгоооогатдемнапот
 public class Movement : MonoBehaviour
 {
     public float speed = 5f;
