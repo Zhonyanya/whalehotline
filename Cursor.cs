@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//будет eщё агa Bериm?&&??рпрплаергвпыргапfdshghbfsгщавпгаыпывghыварфыарлфыждбдфыавао
+//будет eщё агa Bериm?&&??рпрплаергвпыргапfdshghbfsгщавпгаыпывghыварфыарлфыждбдфыаваоти
 public class Cursor : MonoBehaviour
 {
     Vector2 mousePosition;
